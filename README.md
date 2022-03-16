@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AdilShafiq1
+- 👀 I’m a sound engineer.
+- 🌱 I’m currently unity game engine and c#.
+- 📫 Contact me at AdilDevStuff@gmail.com
